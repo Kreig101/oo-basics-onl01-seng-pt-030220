@@ -19,7 +19,9 @@ class Shoe
     @cobble
   end
   
-  def
+  def cobble
+    condition = "new"
+  end
 end
 
   
