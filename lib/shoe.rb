@@ -18,6 +18,8 @@ class Shoe
     puts "Your shoe is as good as new!"
     @cobble
   end
+  
+  def
 end
 
   
